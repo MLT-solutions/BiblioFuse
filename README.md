@@ -22,7 +22,7 @@ BiblioFuse is the ultimate utility for ebook collectors, students, and digital a
 | :---- | :---- | :---- |
 | **Compression** | Single file only | **Unlimited Batch Processing** |
 | **Merging** | Disabled | **Fully Enabled** |
-| **Queue System** | 1 item limit | **Drag-and-Drop Queue** |
+| **Queue System** | 1 item each time| **Drag-and-Drop Queue** |
 | **Support** | Standard | **Priority** |
 
 Get organized today with BiblioFuse\!
