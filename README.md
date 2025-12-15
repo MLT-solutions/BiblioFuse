@@ -1,2 +1,27 @@
 # BiblioFuse
 Shrink ebook file sizes and merge multiple chapters into a single master EPUB effortlessly.
+
+<img width="3168" height="1344" alt="BiblioFuse master_banner" src="https://github.com/user-attachments/assets/62eb36ff-98c0-4c9e-9940-12aefad22d8e" />
+
+**Is your digital library taking up too much space? Do you have scattered EPUB chapters that need to be one book?**
+
+BiblioFuse is the ultimate utility for ebook collectors, students, and digital archivists. Whether you need to reduce the size of image-heavy textbooks for your e-reader or combine a series of fanfics/articles into a single volume, BiblioFuse handles the complex XML structure for you.
+
+**Key Features:**
+
+* **Smart Compression:** Drastically reduce file size by optimizing internal images (JPEG/WebP) without losing readability.  
+* **Lossless Structure:** Preserves your Table of Contents (NCX and EPUB 3 Nav) during processing.  
+* **Advanced Merging:** Combine multiple EPUB files into one. The app intelligently merges spines, manifests, and navigation tables.  
+* **Format Conversion:** Option to convert internal images to WebP for modern efficiency.  
+* **Privacy First:** All processing happens offline on your device.
+
+**Free vs. Pro Version:**
+
+| Feature | Free Version | Pro Version |
+| :---- | :---- | :---- |
+| **Compression** | Single file only | **Unlimited Batch Processing** |
+| **Merging** | Disabled | **Fully Enabled** |
+| **Queue System** | 1 item limit | **Drag-and-Drop Queue** |
+| **Support** | Standard | **Priority** |
+
+Get organized today with BiblioFuse\!
